@@ -22,10 +22,10 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 Estudante de front-end a 7 Meses com cursos da:
 
-Alura.
-Udamy.
-OneBitCode.
-Curso em video.
+Alura.<br/>
+Udamy.<br/>
+OneBitCode.<br/>
+Curso em video.<br/>
 <br/><br/>
 
 ![Gabrielpsl GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielpsl&theme=blue-green)
